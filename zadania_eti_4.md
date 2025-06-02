@@ -23,3 +23,4 @@ imiona = ["Anna", "Piotr", "Kasia"]
 oceny = [5, 4, 5]
 
 ```
+Użyj list comprehension, aby stworzyć listę krotek, gdzie każda krotka zawiera imię i odpowiadającą mu ocenę.
